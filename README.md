@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+<h1 align="center">Shopping Cart With "Redux ToolKit"</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Used Packages:
+- react-router-dom
+- @reduxjs/toolkit
+- react-redux
+- @headlessui/react
+- react-icons
+
+## Used API
+- https://api-react-shopping-cart.vercel.app/data
+> This website was used for getting fake products and "fetch" method was used for http Requests.
 
 ## Available Scripts
 
